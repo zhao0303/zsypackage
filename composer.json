@@ -1,0 +1,16 @@
+{
+	"name": "zsy/package",
+	"authors": [
+		{
+			"name": "zsy",
+			"email": "email@email.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Zsy\\Packagetest\\": "src/"
+		}
+	},
+	"minimum-stability": "dev"
+}
