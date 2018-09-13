@@ -14,5 +14,15 @@
 			"Zsy\\Packagetest\\": "src/"
 		}
 	},
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
+	"extra": {
+		"laravel": {
+			"providers": [
+				"Zsy\\Packagetest\\PackagetestServiceProvider"
+			],
+			"aliases": {
+				'Packagetest': "Zsy\\Packagetest\\Facades\\Packagetest"
+			}
+		}
+	}
 }
