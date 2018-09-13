@@ -21,7 +21,7 @@
 				"Zsy\\Packagetest\\PackagetestServiceProvider"
 			],
 			"aliases": {
-				'Packagetest': "Zsy\\Packagetest\\Facades\\Packagetest"
+				"Packagetest": "Zsy\\Packagetest\\Facades\\Packagetest"
 			}
 		}
 	}
