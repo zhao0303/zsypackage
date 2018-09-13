@@ -11,6 +11,5 @@
 		"psr-4": {
 			"Zsy\\Packagetest\\": "src/"
 		}
-	},
-	"minimum-stability": "dev"
+	}
 }
