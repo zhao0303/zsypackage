@@ -1,5 +1,7 @@
 {
 	"name": "zsy/package",
+	"description": "use to learn laravel package",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "zsy",
